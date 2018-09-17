@@ -1,0 +1,25 @@
+_repo: Quince-minutos-en-globo-Disparate-comico-lirico-bailable-en-un-acto-en-prosa-y-verso_52595
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barberá, Joaquín
+    alias: Barbera, Joaquin
+    gutenberg_agent_id: '46947'
+    url: http://www.gutenberg.org/2009/agents/46947
+description: ''
+gutenberg_issued: '2016-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52595'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Zarzuelas -- Librettos'
+- !lcc 'PQ'
+- GITenberg
+title: "Quince minutos en globo\r\nDisparate cómico-lírico-bailable en un acto, en\
+  \ prosa y verso"
+url: http://www.gutenberg.org/ebooks/52595
