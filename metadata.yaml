@@ -1,5 +1,8 @@
 _repo: Quince-minutos-en-globo-Disparate-comico-lirico-bailable-en-un-acto-en-prosa-y-verso_52595
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52595-h/images/cover.jpg
 creator:
   author:
     agent_name: Barberá, Joaquín
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '46947'
     url: http://www.gutenberg.org/2009/agents/46947
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52595#Quince-minutos-en-globo-Disparate-comico-lirico-bailable-en-un-acto-en-prosa-y-verso
 gutenberg_issued: '2016-07-17'
 gutenberg_type: Text
 identifiers:
